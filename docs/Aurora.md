@@ -1,5 +1,8 @@
 # Aurora
 
+![](assets/images/Aurora1.png){: style="height:300px;width:500px"}
+![](assets/images/Aurora1.png){: style="height:300px;width:500px"}
+
 ## What Is It?
 
 Aurora is a custom dashboard focused around the coverflow design of its game launcher. Features include customizable skins, automatic download of game updates and cover art, the ability to organize games into categories, FTP support, integrated system link online play using LiNK, and a plugin system.
