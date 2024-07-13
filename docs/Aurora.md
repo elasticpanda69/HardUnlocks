@@ -8,7 +8,9 @@ It is the most recently updated dashboard, with an official website at XboxUnity
 
 ## Download
 
-http://phoenix.xboxunity.net/
+| File         | Version | Link                                                                                                                           |
+|--------------|:-------:|--------------------------------------------------------------------------------------------------------------------------------|
+| `Aurora`     | 0.7b.2  | [Download](http://phoenix.xboxunity.net/downloads/Aurora%200.7b.2%20-%20Release%20Package.rar)                                 |
 
 ## Installation
 

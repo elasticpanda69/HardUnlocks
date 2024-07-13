@@ -6,7 +6,9 @@ XeXMenu is a dashboard for the Xbox 360. It is often recommended in JTAG/RGH tut
 
 ## Download
 
-https://mega.nz/#!9AlUmDZK!oykniipcx80kvuRxLaqY8NtPMJYKHW1ZYpqYfcAZsLA
+| File         | Version | Link                                                                                                                           |
+|--------------|:-------:|--------------------------------------------------------------------------------------------------------------------------------|
+| `XeXMenu`    |   1.2   | [Download](https://mega.nz/#!9AlUmDZK!oykniipcx80kvuRxLaqY8NtPMJYKHW1ZYpqYfcAZsLA)                                             |
 
 ## Installation
 

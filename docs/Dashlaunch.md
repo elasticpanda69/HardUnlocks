@@ -6,7 +6,9 @@ DashLaunch is a custom dashboard, usually used as a tool for tweaking deep syste
 
 ## Download
 
-
+| File         | Version | Link                                                                                                                           |
+|--------------|:-------:|--------------------------------------------------------------------------------------------------------------------------------|
+| `DashLaunch` |  3.21   | [Download](https://consolemods.org/wiki/images/2/28/Dash_launch_v3.21.zip)                                                     |
 
 ## Installation
 
