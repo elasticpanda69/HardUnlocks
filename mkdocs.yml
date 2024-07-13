@@ -4,6 +4,8 @@ theme:
   name: material
   logo: assets/logo.png
   favicon: assets/logo.png
+  icon:
+    repo: fontawesome/brands/github
   features:
     - navigation.tabs
     - navigation.sections
@@ -29,6 +31,12 @@ theme:
 
 plugins:
   - search
+  - git-revision-date-localized:
+        enable_creation_date: true
+        type: datetime
+  - git-committers:
+      repository: elasticpanda69/HardUnlocks
+      branch: main
 
 repo_url: https://github.com/elasticpanda69/HardUnlocks
 repo_name: HardUnlocks
@@ -40,3 +48,4 @@ nav:
   - Aurora: Aurora.md
   - Xbox Neighborhood: Neighborhood.md
   - Downloads: Downloads.md
+
