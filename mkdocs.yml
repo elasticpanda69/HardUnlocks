@@ -29,3 +29,14 @@ theme:
 
 plugins:
   - search
+
+repo_url: https://github.com/elasticpanda69/HardUnlocks
+repo_name: HardUnlocks
+
+nav:
+  - Home: index.md
+  - XeXMenu: XeXMenu.md
+  - Dashlaunch: Dashlaunch.md
+  - Aurora: Aurora.md
+  - Xbox Neighborhood: Neighborhood.md
+  - Downloads: Downloads.md
