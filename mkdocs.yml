@@ -49,3 +49,7 @@ nav:
   - Xbox Neighborhood: Neighborhood.md
   - Downloads: Downloads.md
 
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+
