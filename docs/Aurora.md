@@ -8,11 +8,25 @@ Aurora is a custom dashboard focused around the coverflow design of its game lau
 
 It is the most recently updated dashboard, with an official website at XboxUnity.net and an official support forum at RealModScene.com. An FAQ can be found here.
 
-## Download
+## Features
 
-| File         | Version | Link                                                                                                                           |
-|--------------|:-------:|--------------------------------------------------------------------------------------------------------------------------------|
-| `Aurora`     | 0.7b.2  | [Download](http://phoenix.xboxunity.net/downloads/Aurora%200.7b.2%20-%20Release%20Package.rar)                                 |
+
+
+## Downloads
+
+| File                  | Version | Link                                                                                           |
+|-----------------------|:-------:|------------------------------------------------------------------------------------------------|
+| `Aurora`              | 0.7b.2  | [Download](http://phoenix.xboxunity.net/downloads/Aurora%200.7b.2%20-%20Release%20Package.rar) |
+| `Aurora Asset Editor` |  1.4.2  | [Download](https://github.com/XboxUnity/AuroraAssetEditor)                                     |
+
+!!! Note
+
+    Is not necessary for Aurora. It is a graphic editor for Aurora's .asset files. See below for more details.
+
+## Prerequisites
+
+* [XeXMenu](XeXMenu.md)
+* [Dashlaunch](Dashlaunch.md)
 
 ## Installation
 
@@ -41,3 +55,12 @@ Left Thumbstick: Scroll through content (slow)
 Right Thumbstick: Peek left/right
 
 DPAD: Move left/right
+
+## Skins
+
+
+
+## Asset Editor
+
+
+
