@@ -6,13 +6,20 @@ DashLaunch is a custom dashboard, usually used as a tool for tweaking deep syste
 
 ## Download
 
-| File         | Version | Link                                                                                                                           |
-|--------------|:-------:|--------------------------------------------------------------------------------------------------------------------------------|
-| `DashLaunch` |  3.21   | [Download](https://consolemods.org/wiki/images/2/28/Dash_launch_v3.21.zip)                                                     |
+| File         | Version | Link                                  |
+|--------------|:-------:|---------------------------------------|
+| `DashLaunch` |  3.21   | [Download](/downloads/Dashlaunch.zip) |
 
 ## Installation
 
-
+1. Unpack the zip file included in the download link above to your prefered flash drive
+2. Load up XeXMenu and view your flash drive with the above folder inside
+3. Press Y then press A on Copy to copy the folder
+4. Press X then press A on your HDD
+5. Press Y then press A on Create to create a new folder
+6. Name the new folder "Homebrew"
+7. Afterwards press A on your new Homebrew folder
+8. Once inside press Y then press A on Paste to move the previously copied DashLaunch folder
 
 ## Controls
 

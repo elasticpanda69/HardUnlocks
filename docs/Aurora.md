@@ -1,7 +1,6 @@
 # Aurora
 
 ![](assets/images/Aurora1.png){: style="height:300px;width:500px"}
-![](assets/images/Aurora1.png){: style="height:300px;width:500px"}
 
 ## What Is It?
 
