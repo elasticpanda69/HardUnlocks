@@ -41,15 +41,6 @@ plugins:
 repo_url: https://github.com/elasticpanda69/HardUnlocks
 repo_name: HardUnlocks
 
-nav:
-  - Home: index.md
-  - XeXMenu: XeXMenu.md
-  - Dashlaunch: Dashlaunch.md
-  - Aurora: Aurora.md
-  - Xbox Neighborhood: Neighborhood.md
-  - Reset Glitch Hack: RGH.md
-  - Stealth Servers: StealthServers.md
-  - Downloads: Downloads.md
 
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
