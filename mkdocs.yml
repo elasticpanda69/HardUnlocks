@@ -34,13 +34,24 @@ plugins:
   - git-revision-date-localized:
         enable_creation_date: true
         type: datetime
-  - git-committers:
-      repository: elasticpanda69/HardUnlocks
-      branch: main
+ #- git-committers:
+ #      repository: elasticpanda69/HardUnlocks
+ #      branch: main
 
 repo_url: https://github.com/elasticpanda69/HardUnlocks
 repo_name: HardUnlocks
 
+extra:
+  analytics:
+    provider: google
+    property: G-95DPPB4W3V
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
 
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
@@ -49,3 +60,7 @@ extra_javascript:
 markdown_extensions:
   - attr_list
   - admonition
+
+copyright: >
+  Copyright &copy; 2024 HardUnlocks –
+  <a href="#__consent">Change cookie settings</a>

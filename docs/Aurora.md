@@ -21,7 +21,7 @@ It is the most recently updated dashboard, with an official website at XboxUnity
 
 !!! Note
 
-    Is not necessary for Aurora. It is a graphic editor for Aurora's .asset files. See below for more details.
+    Aurora Asset Editor is not necessary for Aurora installation. It is a graphic editor for Aurora's .asset files. See below for more details.
 
 ## Prerequisites
 
@@ -31,6 +31,35 @@ It is the most recently updated dashboard, with an official website at XboxUnity
 ## Installation
 
 Download the latest Aurora build from XboxUnity.net and extract the files into a new folder named Aurora. Copy this folder to your Xbox 360’s hard drive. Launch the Aurora.xex to start the dashboard, or set it as your default dashboard using DashLaunch.
+
+## File Structure
+
+``` { .yaml .no-copy }
+Cache (partition 0)
+Content
+Homebrew/Apps
+    Aurora (Place unzipped Aurora folder here)
+        Data
+            Logs
+        Media
+            Assets
+            Effects
+            Fonts
+            Layouts
+            Scripts
+        Plugins
+        Skins (Place aurora skins or .xzp files here)
+        User
+            Backgrounds
+            Icons
+            Import
+            Scripts
+            Trainers
+        Aurora.xex
+        live.json
+        nxeart
+    ... other applications
+```
 
 ## Controls
 
@@ -56,11 +85,16 @@ Right Thumbstick: Peek left/right
 
 DPAD: Move left/right
 
+## Settings
+
+
+
+## Plugins
+
+
+
 ## Skins
 
 
 
 ## Asset Editor
-
-
-
