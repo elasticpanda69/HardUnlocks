@@ -2,7 +2,7 @@
 
 ## What Is It?
 
-Xbox 360 Neighborhood (or Xbox Neighborhood for short) is an official Windows extension tool that is meant to be used with development kits, but also can be used on RGH/JTAG exploited consoles. The tool allows basic FTP features as well as live peek/poking of values and running XEX files remotely. Xbox Neighborhood is often used for modding as it provides a simple interface into your console
+Xbox 360 Neighborhood (or Xbox Neighborhood for short) is an official Windows extension tool that is meant to be used with development kits, but also can be used on RGH/JTAG exploited consoles. The tool allows basic FTP features as well as live peek/poking of values and running XEX files remotely. Xbox Neighborhood is often used for modding as it provides a simple interface into your console.
 
 ## Download
 
