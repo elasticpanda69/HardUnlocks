@@ -6,15 +6,3 @@
 
 
 
-## Download
-
-
-
-## Installation
-
-
-
-## Controls
-
-
-
