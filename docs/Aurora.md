@@ -21,7 +21,7 @@ It is the most recently updated dashboard, with an official website at XboxUnity
 
 !!! Note
 
-    Is not necessary for Aurora. It is a graphic editor for Aurora's .asset files. See below for more details.
+    Is not necessary for Aurora installation. It is a graphic editor for Aurora's .asset files. See below for more details.
 
 ## Prerequisites
 
