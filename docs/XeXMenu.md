@@ -1,5 +1,8 @@
 # XeXMenu
 
+![](assets/images/XeXMenu1.png){: style="width: 49%; height: auto"}
+![](assets/images/XeXMenu2.png){: style="width: 49%; height: auto"}
+
 ## What Is It?
 
 XeXMenu is a dashboard for the Xbox 360. It is often recommended in JTAG/RGH tutorials as the first dashboard to be installed as it has an installer that shows up under the Games library in the official dash. However, it is limited in function compared to more feature rich dashboards such as Freestyle Dash or Aurora.
