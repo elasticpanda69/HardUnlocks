@@ -9,9 +9,9 @@ XeXMenu is a dashboard for the Xbox 360. It is often recommended in JTAG/RGH tut
 
 ## Download
 
-| File         | Version | Link                                                                                                                           |
-|--------------|:-------:|--------------------------------------------------------------------------------------------------------------------------------|
-| `XeXMenu`    |   1.2   | [Download](https://mega.nz/#!9AlUmDZK!oykniipcx80kvuRxLaqY8NtPMJYKHW1ZYpqYfcAZsLA)                                             |
+| File         | Version | Link                                                                                                           |
+|--------------|:-------:|----------------------------------------------------------------------------------------------------------------|
+| `XeXMenu`    |   1.2   | [Download](https://drive.google.com/file/d/1168OrJZ7J-XcklsYweOFns2Plba0Zohh/view?usp=sharing)                 |
 
 ## Installation
 
@@ -22,6 +22,17 @@ XeXMenu is a dashboard for the Xbox 360. It is often recommended in JTAG/RGH tut
 4. Plug the flash drive into your PC. Open the Content folder, select "New Folder", and name it 0000000000000000 (16 zeroes). Open the new folder, then drag the CODE9999 folder into it.
 5. Safely eject your flash drive and plug it into your Xbox 360. Navigate to the Demos section of your dashboard, and it should list XeXMenu there. Select it to launch it.
     * You can install XeXMenu to your hard drive by going to Console Settings > Storage, and copying it from your flash drive to the hard drive.
+
+## File Structure
+
+``` { .yaml .no-copy }
+Cache (partition 0)
+Content
+   0000000000000000
+      C0DE9999
+Emulators
+Homebrew
+```
 
 ## Controls
 
@@ -38,3 +49,7 @@ Y: Rescan devices / file context menu
 A: Launch selection
 
 B: Back (in file manager)
+
+## Skins
+
+## FAQ
