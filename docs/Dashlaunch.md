@@ -11,9 +11,9 @@ Dashlaunch is a custom dashboard, usually used as a tool for tweaking deep syste
 
 ## Download
 
-| File         | Version | Link                                 |
+| File         | Version | Link                                  |
 |--------------|:-------:|--------------------------------------|
-| `Dashlaunch` |  3.21   | [Download](downloads/Dashlaunch.zip) |
+| `Dashlaunch` |  3.21   | [Download](https://drive.google.com/file/d/1O-IkxIrocMc2sk3mBbKnA7gJSWWWqod0/view?usp=sharing)  |
 
 ## Installation
 
