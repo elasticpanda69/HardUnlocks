@@ -9,7 +9,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
@@ -64,3 +63,12 @@ markdown_extensions:
 copyright: >
   Copyright &copy; 2024 HardUnlocks –
   <a href="#__consent">Change cookie settings</a>
+
+nav:
+  - Home: index.md
+  - Dashboards:
+      - Overview: Dashboards/index.md
+      - Dashboards/XeXMenu.md
+      - Dashboards/Aurora.md
+      - Dashboards/FreestyleDash.md
+  - Downloads: Downloads.md
