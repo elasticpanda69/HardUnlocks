@@ -1,7 +1,7 @@
 # Aurora
 
-![](assets/images/Aurora1.png){: style="width: 49%; height: auto"}
-![](assets/images/Aurora2.png){: style="width: 49%; height: auto"}
+![](../assets/images/Aurora1.png){: style="width: 49%; height: auto"}
+![](../assets/images/Aurora2.png){: style="width: 49%; height: auto"}
 
 ## What Is It?
 
@@ -27,7 +27,7 @@ It is the most recently updated dashboard, with an official website at XboxUnity
 ## Prerequisites
 
 * [XeXMenu](XeXMenu.md)
-* [Dashlaunch](Dashlaunch.md)
+* [Dashlaunch](../Dashlaunch.md)
 
 ## Installation
 
