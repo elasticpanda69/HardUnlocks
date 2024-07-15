@@ -59,6 +59,7 @@ extra_javascript:
 markdown_extensions:
   - attr_list
   - admonition
+  - md_in_html
 
 copyright: >
   Copyright &copy; 2024 HardUnlocks –
@@ -71,4 +72,7 @@ nav:
       - Dashboards/XeXMenu.md
       - Dashboards/Aurora.md
       - Dashboards/FreestyleDash.md
+  - Emulators:
+      - Overview: Emulators/Emulators.md
+      - Emulators/RetroArch.md
   - Downloads: Downloads.md
