@@ -18,7 +18,7 @@ It is the most recently updated dashboard, with an official website at XboxUnity
 | File                  | Version | Link                                                                                           |
 |-----------------------|:-------:|------------------------------------------------------------------------------------------------|
 | `Aurora`              | 0.7b.2  | [Download](http://phoenix.xboxunity.net/downloads/Aurora%200.7b.2%20-%20Release%20Package.rar) |
-| `Aurora Asset Editor` |  1.4.2  | [Download](https://github.com/XboxUnity/AuroraAssetEditor)                                     |
+| `Aurora Asset Editor` |  1.4.2  | [Download](https://github.com/XboxUnity/AuroraAssetEditor/releases)                                     |
 
 !!! Note
 
@@ -96,9 +96,22 @@ DPAD: Move left/right
 
 ## Skins
 
+## FAQ
 
 ---
 
 ## Aurora Asset Editor
 
 ### What is it?
+
+Aurora Asset Editor is a program for Windows PC that allows you to update/edit boxart/covers, backgrounds, icons/banners, screenshots, as well as other aurora game assets. 
+
+### Installation
+
+1. Download and unpack the .zip folder to your desktop. 
+2. Run AuroraAssetEditor.exe
+
+!!! note "FTP Assets"
+
+    If you have not messed with the FTP settings with in Aurora itself the default Username & Password will already be populated for you. If this is not the case the default Username & Password are both `xboxftp`
+
