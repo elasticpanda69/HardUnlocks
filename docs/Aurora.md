@@ -1,7 +1,7 @@
 # Aurora
 
-![](assets/images/Aurora1.png){: style="height:300px;width:500px"}
-![](assets/images/Aurora2.png){: style="height:300px;width:500px"}
+![](assets/images/Aurora1.png){: style="width: 49%; height: auto"}
+![](assets/images/Aurora2.png){: style="width: 49%; height: auto"}
 
 ## What Is It?
 

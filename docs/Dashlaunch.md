@@ -4,6 +4,8 @@
 
 DashLaunch is a custom dashboard, usually used as a tool for tweaking deep system settings. The most common usage for DashLaunch is to set a custom dashboard to be the default one on system startup, and to manage target fan settings, and install plugins. Keep in mind that you must save your changes if you make any modifications by going to the "Save \ Load launch.ini" menu and pressing X on HDD.
 
+## Features
+
 ## Download
 
 | File         | Version | Link                                  |
