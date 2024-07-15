@@ -7,12 +7,23 @@
 
 Freestyle Dash (known as FSD or F3) is a highly customizable replacement dashboard created by Team FSD. Features include the ability to scan, categorize, and download cover art for your Xbox 360, XBLA, and original Xbox games; the ability to launch homebrew apps and tools; a full skinning suite to make your dashboard look and feel how you want; and the ability to set fan settings.
 
+## Features
+
+* Console Temperature Display
+* DVD Extract
+* Fan Speed Calibration
+* File Manager
+* FTP Support
+* Kinect Support
+* Skin Customization
+* Weather
+
 ## Download
 
-| File                               | Version | Link                                                                             |
-|------------------------------------|:-------:|----------------------------------------------------------------------------------|
-| `FreeStyle Dash`                   | 3.0.775 | [Download](https://consolemods.org/wiki/images/7/76/TeamFSD.Freestyle3.0.775.7z) |
-| `FreeStyle Dash (Patched Version)` |    -    | [Download](https://consolemods.org/wiki/images/a/a0/Fsd3.zip)                    |
+| File                                          | Version | Link                                                                             |
+|-----------------------------------------------|:-------:|----------------------------------------------------------------------------------|
+| `FreeStyle Dash`                              | 3.0.775 | [Download](https://consolemods.org/wiki/images/7/76/TeamFSD.Freestyle3.0.775.7z) |
+| `FreeStyle Dash (Unofficial Patched Version)` |    -    | [Download](https://consolemods.org/wiki/images/a/a0/Fsd3.zip)                    |
 
 ## Prerequisites
 
@@ -28,14 +39,18 @@ Download the latest FSD build from the link above and extract the files into a n
 ``` { .yaml .no-copy }
 Cache (partition 0)
 Content
+Emulators
 Homebrew/Apps
     FSD (Place unzipped FSD folder here)
-        Skins
-        Plugins
+        Data
         Media
-        nxeart
-        live.json
+        Skins
+        Database.xmplr
         default.xex
+        live.json
+        Nuildentity.bin.be
+        nuisp1033
+        nxeart
     ... other applications
 ```
 
@@ -59,8 +74,10 @@ DPAD: Move left/right one tile or up and down a row
 
 ## Settings
 
-## Plugins
+
 
 ## Skins
+
+Custom FSD Skins can be found [Here](https://www.realmodscene.com/index.php?/forum/39-skins/&sortby=views&sortdirection=desc)
 
 ## FAQ
