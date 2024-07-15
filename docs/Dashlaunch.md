@@ -26,6 +26,17 @@ Dashlaunch is a custom dashboard, usually used as a tool for tweaking deep syste
 7. Afterwards press A on your new Homebrew folder
 8. Once inside press Y then press A on Paste to move the previously copied DashLaunch folder
 
+## File Structure
+
+``` { .yaml .no-copy }
+Cache (partition 0)
+Content
+Homebrew/Apps
+    Dashlaunch (Place unzipped Dashlaunch folder here)
+        default.xex
+    ... other applications
+```
+
 ## Controls
 
 Back: Display controls
@@ -39,3 +50,5 @@ LB/RB: Change menu
 LT/RT: Jump to top or bottom of current page view.
 
 DPAD Up/Down: Move up or down
+
+## Settings
