@@ -7,6 +7,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
   features:
+    - navigation.path
     - navigation.tabs
     - navigation.sections
     - navigation.top
@@ -60,6 +61,9 @@ markdown_extensions:
   - attr_list
   - admonition
   - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 copyright: >
   Copyright &copy; 2024 HardUnlocks –
@@ -67,12 +71,15 @@ copyright: >
 
 nav:
   - Home: index.md
+  - Getting Started:
+      - xexmenu.md
+      - dashlaunch.md
+      - Games: getting-started/games.md
   - Dashboards:
-      - Overview: Dashboards/index.md
-      - Dashboards/XeXMenu.md
-      - Dashboards/Aurora.md
-      - Dashboards/FreestyleDash.md
+      - Overview: dashboards/index.md
+      - dashboards/aurora.md
+      - dashboards/freestyledash.md
   - Emulators:
-      - Overview: Emulators/Emulators.md
-      - Emulators/RetroArch.md
-  - Downloads: Downloads.md
+      - Overview: emulators/emulators.md
+      - emulators/retroarch.md
+  - Downloads: downloads.md

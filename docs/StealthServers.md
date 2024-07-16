@@ -1,5 +1,0 @@
-# Stealth Servers
-
-## Proto
-
-

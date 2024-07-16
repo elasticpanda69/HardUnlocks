@@ -34,6 +34,9 @@ Cache (partition 0)
 Content
 Emulators
     RetroArch-360
+       media
+       roms
+       default.xex
     ... other applications
 Homebrew/Apps
 ```

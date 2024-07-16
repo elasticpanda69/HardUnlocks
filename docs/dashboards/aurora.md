@@ -11,7 +11,10 @@ It is the most recently updated dashboard, with an official website at XboxUnity
 
 ## Features
 
-
+* FTP Support
+* Skin Customization
+* Title Update Support
+* Trainers
 
 ## Downloads
 
@@ -19,6 +22,7 @@ It is the most recently updated dashboard, with an official website at XboxUnity
 |-----------------------|:-------:|------------------------------------------------------------------------------------------------|
 | `Aurora`              | 0.7b.2  | [Download](http://phoenix.xboxunity.net/downloads/Aurora%200.7b.2%20-%20Release%20Package.rar) |
 | `Aurora Asset Editor` |  1.4.2  | [Download](https://github.com/XboxUnity/AuroraAssetEditor/releases)                            |
+| `Aurora Trainer Pack` |    -    | [Download](https://drive.google.com/file/d/1a46uoDem1OvK80HhVk1Mvwdrtku9jS7g/view?usp=sharing) |
 
 !!! Note
 
@@ -26,8 +30,8 @@ It is the most recently updated dashboard, with an official website at XboxUnity
 
 ## Prerequisites
 
-* [XeXMenu](XeXMenu.md)
-* [Dashlaunch](../Dashlaunch.md)
+* [x] [XeXMenu](../xexmenu.md)
+* [x] [Dashlaunch](../dashlaunch)
 
 ## Installation
 
@@ -96,6 +100,29 @@ DPAD: Move left/right
 
 
 ## Skins
+
+## Trainers
+
+Aurora 0.5b and below:
+``` { .yaml .no-copy }
+Cache (partition 0)
+Content
+Emulators
+Homebrew/Apps
+    Aurora 
+        Trainers (place trainer folders here)
+```
+
+Aurora 0.6b+:
+``` { .yaml .no-copy }
+Cache (partition 0)
+Content
+Emulators
+Homebrew/Apps
+    Aurora 
+        User
+            Trainers (place trainer folders here)
+```
 
 ## FAQ
 

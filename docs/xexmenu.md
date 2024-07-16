@@ -1,7 +1,7 @@
 # XeXMenu
 
-![](../assets/images/XeXMenu1.png){: style="width: 49%; height: auto"}
-![](../assets/images/XeXMenu2.png){: style="width: 49%; height: auto"}
+![](assets/images/XeXMenu1.png){: style="width: 49%; height: auto"}
+![](assets/images/XeXMenu2.png){: style="width: 49%; height: auto"}
 
 ## What Is It?
 
