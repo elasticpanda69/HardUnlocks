@@ -27,8 +27,8 @@ Freestyle Dash (known as FSD or F3) is a highly customizable replacement dashboa
 
 ## Prerequisites
 
-* [XeXMenu](../xexmenu.md)
-* [Dashlaunch](../dashlaunch)
+* [XeXMenu](../homebrew/xexmenu.md)
+* [Dashlaunch](../homebrew/dashlaunch.md)
 
 ## Installation
 

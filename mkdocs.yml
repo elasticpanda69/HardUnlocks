@@ -74,10 +74,11 @@ copyright: >
 
 nav:
   - Home: index.md
-  - Getting Started:
-      - xexmenu.md
-      - dashlaunch.md
-      - Games: getting-started/games.md
+  - Homebrew:
+      - Overview: homebrew/homebrew.md
+      - homebrew/xexmenu.md
+      - homebrew/dashlaunch.md
+      - Games: homebrew/games.md
   - Dashboards:
       - Overview: dashboards/index.md
       - dashboards/aurora.md

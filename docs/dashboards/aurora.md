@@ -30,8 +30,8 @@ It is the most recently updated dashboard, with an official website at XboxUnity
 
 ## Prerequisites
 
-* [x] [XeXMenu](../xexmenu.md)
-* [x] [Dashlaunch](../dashlaunch)
+* [x] [XeXMenu](../homebrew/xexmenu.md)
+* [x] [Dashlaunch](../homebrew/dashlaunch.md)
 
 ## Installation
 
@@ -123,7 +123,14 @@ Homebrew/Apps
         User
             Trainers (place trainer folders here)
 ```
+---
+## Tutorials
 
+<div class="grid">
+  <a href="../../tutorials/aurora-multi-disc-games" class="card">Installing Multi Disc Games with Aurora</a>
+</div>
+
+---
 ## FAQ
 
 ---

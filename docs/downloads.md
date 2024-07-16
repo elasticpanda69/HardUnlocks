@@ -3,10 +3,10 @@
 | File                                                              | Version  | Link                                                                                                          |
 |-------------------------------------------------------------------|:--------:|---------------------------------------------------------------------------------------------------------------|
 | [`Aurora`](dashboards/aurora.md)                                  |  0.7b.2  | [Download](http://phoenix.xboxunity.net/downloads/Aurora%200.7b.2%20-%20Release%20Package.rar)                |
-| [`Dashlaunch`](dashlaunch.md)                                     |   3.21   | [Download](https://drive.google.com/file/d/1O-IkxIrocMc2sk3mBbKnA7gJSWWWqod0/view?usp=sharing)                |
+| [`Dashlaunch`](homebrew/dashlaunch.md)                                     |   3.21   | [Download](https://drive.google.com/file/d/1O-IkxIrocMc2sk3mBbKnA7gJSWWWqod0/view?usp=sharing)                |
 | [`FreeStyle Dash`](dashboards/freestyledash.md)                   | 3.0.775  | [Download](https://consolemods.org/wiki/images/7/76/TeamFSD.Freestyle3.0.775.7z)                              |
 | [`FreeStyle Dash (Patched Version)`](dashboards/freestyledash.md) |    -     | [Download](https://consolemods.org/wiki/images/a/a0/Fsd3.zip)                                                 |
-| [`XeXMenu`](xexmenu.md)                                |   1.2    | [Download](https://drive.google.com/file/d/1168OrJZ7J-XcklsYweOFns2Plba0Zohh/view?usp=sharing)                |
+| [`XeXMenu`](homebrew/xexmenu.md)                                |   1.2    | [Download](https://drive.google.com/file/d/1168OrJZ7J-XcklsYweOFns2Plba0Zohh/view?usp=sharing)                |
 
 ## PC Tools
 

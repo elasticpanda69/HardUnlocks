@@ -1,7 +1,7 @@
 # Dashlaunch
 
-![](assets/images/Dashlaunch1.png){: style="width: 49%; height: auto"}
-![](assets/images/Dashlaunch2.png){: style="width: 49%; height: auto"}
+![](../assets/images/Dashlaunch1.png){: style="width: 49%; height: auto"}
+![](../assets/images/Dashlaunch2.png){: style="width: 49%; height: auto"}
 
 ## What Is It?
 
