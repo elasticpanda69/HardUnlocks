@@ -79,6 +79,7 @@ nav:
       - homebrew/xexmenu.md
       - homebrew/dashlaunch.md
       - Games: homebrew/games.md
+      - Stealth Servers: homebrew/getting-online.md
   - Dashboards:
       - Overview: dashboards/index.md
       - dashboards/aurora.md
