@@ -128,6 +128,7 @@ Homebrew/Apps
 
 <div class="grid">
   <a href="../../tutorials/aurora-multi-disc-games" class="card">Installing Multi Disc Games with Aurora</a>
+  <a href="../../tutorials/aurora-ftp-support" class="card">Setting Up FTP Support with Aurora</a>  
 </div>
 
 ---
