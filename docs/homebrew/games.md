@@ -18,8 +18,9 @@ if the game is in the disc drive or not.
 Cache
 Content
 Games
-    Halo 4
-        [place extracted files here]
+    Xbox 360
+        Halo 4
+            [place extracted files here]
 ```
 
 ### Two Discs (Two "Play" Discs)
@@ -31,15 +32,19 @@ Games
 Cache
 Content
 Games
-    The Witcher 2
-        Disc 1
-            [place extracted files here]
-        Disc 2
-            [place extracted files here]
+    Xbox 360
+        The Witcher 2
+            Disc 1
+                [place extracted files here]
+            Disc 2
+                [place extracted files here]
 ```
 
-### Downloaded Games
+## Downloaded Games (.iso files)
+
+## OG Xbox Games
 
 
 
-### Arcade Games
+## Arcade Games
+
