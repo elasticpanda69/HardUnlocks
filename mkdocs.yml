@@ -2,6 +2,7 @@ site_name: HardUnlocks
 site_url: https://hardunlocks.com
 theme:
   name: material
+  custom_dir: docs/overrides
   logo: assets/logo.png
   favicon: assets/logo.png
   icon:
