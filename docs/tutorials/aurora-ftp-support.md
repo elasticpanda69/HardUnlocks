@@ -2,12 +2,12 @@
 
 ## Downloads
 
-| File             | Link                                                                                              |
-|------------------|---------------------------------------------------------------------------------------------------|
-| `FileZilla`      | [Download](https://filezilla-project.org/)                                                        |
-| `GODspeed`       | [Download](https://github.com/mercenaryntx/godspeed)                                                        |
-| `xbdm.xex`       | [Download](https://drive.google.com/file/d/1IdOgXwYTeTSA5Q00no8e6kQVqNvP8Ype/view?usp=sharing)                                                                  | 
-| `Xbox SDK`       | [Download](https://www.mediafire.com/file/l9786i9endh5w5e/XBOX360+SDK+21256.3.exe)                                        |
+| File             | Link                                                                                                    |
+|------------------|---------------------------------------------------------------------------------------------------------|
+| `FileZilla`      | [Download](https://filezilla-project.org/)                                                              |
+| `GODspeed`       | [Download](https://github.com/mercenaryntx/godspeed)                                                    |
+| `xbdm.xex`       | [Download](https://drive.google.com/file/d/1IdOgXwYTeTSA5Q00no8e6kQVqNvP8Ype/view?usp=sharing)          | 
+| `Xbox SDK`       | [Download](https://www.mediafire.com/file/l9786i9endh5w5e/XBOX360+SDK+21256.3.exe)                      |
 
 !!! Note
 
