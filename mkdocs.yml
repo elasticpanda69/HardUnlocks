@@ -88,4 +88,5 @@ nav:
   - Emulators:
       - Overview: emulators/emulators.md
       - emulators/retroarch.md
+      - SNES: emulators/snes.md
   - Downloads: downloads.md
