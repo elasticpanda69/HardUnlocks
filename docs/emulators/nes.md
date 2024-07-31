@@ -2,18 +2,6 @@
 
 ## FCE360
 
-### Features
-
-- Graphics/Sound
-- Achievements 
-- XUI user interface
-- SRAM save support linked to a user profile
-- Filters : Simple2x, Scanlines, TV Mode, Super Eagle, Super 2xSAI, HQ2x
-- Turbo Mode (Right Trigger)
-- Aspect Ratio/Stretch Mode support
-- SaveStates (currently 1 per rom)
-- Previews
-
 ### Downloads
 
 | File     | Version | Link                                                                                           |
