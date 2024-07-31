@@ -35,7 +35,7 @@ Emulators
         roms
             Super Mario World (USA).sfc
             2020 Super Baseball (U).smc
-            ... other SNES roms
+            ... other NES roms
         snaps
         states
         fceux.xex
