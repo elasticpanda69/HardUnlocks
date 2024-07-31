@@ -27,6 +27,8 @@ RetroArch is a modular multi-system emulator system that is designed to be fast,
 
 ## Installation
 
+
+
 ## File Structure
 
 ``` { .yaml .no-copy }

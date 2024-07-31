@@ -34,6 +34,7 @@
 
 ## Emulators
 
-| File                                                              | Version  | Link                                                                                                          |
-|-------------------------------------------------------------------|:--------:|---------------------------------------------------------------------------------------------------------------|
-| `RetroArch360`                                                    | 1.0.0.2  | [Download](https://drive.google.com/file/d/1_AhGEs4LXfc9nY_Vw_XjmhkbeKSbTcW5/view?usp=sharing)                |
+| File           | Version | Link                                                                                              |
+|----------------|:-------:|---------------------------------------------------------------------------------------------------|
+| `RetroArch360` | 1.0.0.2 | [Download](https://drive.google.com/file/d/1_AhGEs4LXfc9nY_Vw_XjmhkbeKSbTcW5/view?usp=sharing)    |
+| `SNES360`      | 0.32    | [Download](https://drive.google.com/file/d/1IoPp5nIQ45Col3lWyLkCBBJdyKXijkMO/view?usp=sharing)    |

@@ -33,11 +33,11 @@ theme:
 plugins:
   - search
   - git-revision-date-localized:
-        enable_creation_date: true
-        type: datetime
+      enable_creation_date: true
+      type: datetime
   - git-committers:
-        repository: elasticpanda69/HardUnlocks
-        branch: main
+      repository: elasticpanda69/HardUnlocks
+      branch: main
 
 repo_url: https://github.com/elasticpanda69/HardUnlocks
 repo_name: HardUnlocks
@@ -89,4 +89,5 @@ nav:
       - Overview: emulators/emulators.md
       - emulators/retroarch.md
       - SNES: emulators/snes.md
+      - NES: emulators/nes.md
   - Downloads: downloads.md
